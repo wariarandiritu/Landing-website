@@ -1,2 +1,3 @@
 #Landing Website
-##The landing website is created using HTML, CSS and Bootstrap.
+
+#The landing website is created using HTML, CSS and Bootstrap.
